@@ -30,7 +30,7 @@ Course: Python Programming
 
 10. Module: 10_Module_Higher_order_functions
 
-11. Module: 
+11. Module: 11_Module_Python_type_errors
 
 12. File: README.mb
 
